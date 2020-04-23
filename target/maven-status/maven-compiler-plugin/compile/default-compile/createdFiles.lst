@@ -1,0 +1,14 @@
+com\boroda\app\controller\MainPageController$3.class
+com\boroda\app\controller\MainPageController$2.class
+com\boroda\app\model\ChatServerInitializer.class
+com\boroda\app\SpringBootApplication.class
+com\boroda\app\model\ChatServer.class
+com\boroda\app\model\ChatServerHandler.class
+com\boroda\app\model\ChatClientHandler.class
+com\boroda\app\controller\SettingsPageController.class
+com\boroda\app\service\ChatSettingsComponent.class
+com\boroda\app\controller\MainPageController.class
+com\boroda\app\model\ChatClientInitializer.class
+com\boroda\app\controller\MainPageController$1.class
+com\boroda\app\model\ChatClient.class
+com\boroda\app\JavaFxApplication.class
